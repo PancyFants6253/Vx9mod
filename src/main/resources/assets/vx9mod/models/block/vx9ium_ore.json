@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "vx9mod:block/vx9ium_ore"
+  }
+}
