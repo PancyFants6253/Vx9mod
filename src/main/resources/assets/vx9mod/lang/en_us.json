@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "translations": {
+    "en_us": {
+      "itemGroup.vx9mod.main": "VX-9 Mod",
+      "item.vx9mod.vx9_laser_gun": "VX-9 Laser Gun",
+      "item.vx9mod.vx9ium_ingot": "Vx9ium Ingot",
+      "item.vx9mod.nexium_ingot": "Nexium Ingot",
+      "item.vx9mod.chronium_ingot": "Chronium Ingot",
+      "item.vx9mod.fabricium_ingot": "Fabricium Ingot",
+      "item.vx9mod.quantum_core": "Quantum Core",
+      "item.vx9mod.powered_quantum_core": "Powered Quantum Core",
+      "block.vx9mod.vx9ium_ore": "Vx9ium Ore",
+      "block.vx9mod.nexium_ore": "Nexium Ore",
+      "block.vx9mod.chronium_ore": "Chronium Ore",
+      "block.vx9mod.fabricium_ore": "Fabricium Ore",
+      "block.vx9mod.quantum_fabricator": "Quantum Fabricator",
+      "block.vx9mod.quantum_core_charger": "Quantum Core Charger",
+      "block.vx9mod.vx9_crafting_station": "VX-9 Crafting Station",
+      "block.vx9mod.crafting_pedestal": "Crafting Pedestal",
+      "biome.vx9mod.quantum_nexus": "Quantum Nexus",
+      "biome.vx9mod.skill_sanctum": "Skill Sanctum",
+      "biome.vx9mod.boss_citadel": "Boss Citadel",
+      "biome.vx9mod.fabrication_core": "Fabrication Core"
+    }
+  }
+}

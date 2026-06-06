@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "vx9mod",
+  "version": "${version}",
+  "name": "VX-9 Mod",
+  "description": "A comprehensive Minecraft mod featuring the VX-9 laser weapon system, quantum crafting, skill trees, and custom biomes.",
+  "authors": [
+    "PancyFants6253"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.pancyfants.vx9mod.Vx9ModMain"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
