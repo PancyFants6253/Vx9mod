@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "com.pancyfants.vx9mod:vx9ium_ore",
+    "com.pancyfants.vx9mod:nexium_ore",
+    "com.pancyfants.vx9mod:chronium_ore",
+    "com.pancyfants.vx9mod:fabricium_ore"
+  ]
+}
