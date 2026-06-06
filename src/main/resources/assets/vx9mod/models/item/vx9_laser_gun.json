@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "vx9mod:item/vx9_laser_gun"
+  }
+}
